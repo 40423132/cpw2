@@ -38,8 +38,8 @@
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="leo.20160115135248.21"><vh>@edit 40423132_cp_w1.md</vh></v>
 <v t="leo.20160115135248.22"><vh>@edit 40423132_cp_w2.md</vh></v>
-<v t="leo.20160115135248.24"><vh>@edit 40423132_cp_w4.md</vh></v>
 <v t="leo.20160115135248.23"><vh>@edit 40423132_cp_w3.md</vh></v>
+<v t="leo.20160115135248.24"><vh>@edit 40423132_cp_w4.md</vh></v>
 <v t="leo.20160115135248.25"><vh>@edit 40423132_cp_w5.md</vh></v>
 <v t="leo.20160115135248.26"><vh>@edit 40423132_cp_w6.md</vh></v>
 <v t="leo.20160115135248.27"><vh>@edit 40423132_cp_w7.md</vh></v>
